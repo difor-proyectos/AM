@@ -1,0 +1,13 @@
+DIFOR V20 FIXES
+
+Correcciones aplicadas:
+- Imágenes e iconos de botones: ahora se pueden subir y se renderizan en la botonera.
+- Fondo de botón separado del icono/imagen.
+- Se quitaron filtros que bajaban la calidad visual de banners, botones y videos.
+- Showroom: el video se muestra de inmediato como iframe, sin portada estática.
+- Videos y PDF ahora se aceptan en R2 desde _worker.js.
+- Agenda: si borras actividades, ya no vuelven por el bug de listas vacías.
+- Dashboard: los datos ahora son editables, se pueden ocultar, eliminar y agregar datos manuales.
+- WhatsApp de la barra superior abre WhatsApp directamente.
+- Tarjeta de la barra superior prepara mensaje de tarjeta por WhatsApp.
+- Se agregó aviso claro cuando Cloudflare D1/R2 no está configurado; sin D1/R2 los archivos no pueden aparecer en otros dispositivos.

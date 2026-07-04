@@ -1,0 +1,17 @@
+DIFOR V25 REPARADO COMPLETO
+
+Base usada: DIFOR_V21_TARJETA_BOTONES_SHOWROOM(2).zip, porque fue el último ZIP que funcionó.
+
+Qué se corrigió:
+- No se usó el V24 dañado como base para evitar parches duplicados.
+- Se agregó una capa limpia V25 sin repetir V22/V23/V24.
+- Administración incluye pestaña Presentación.
+- En Presentación se pueden subir imágenes de tarjetas, activar una tarjeta y eliminar tarjetas.
+- La tarjeta activa alimenta el botón de tarjeta de la barra superior.
+- El botón Tarjeta mantiene la pregunta del número del cliente y abre WhatsApp.
+- El botón WhatsApp mantiene apertura con app móvil y respaldo wa.me.
+- Los botones de inicio usan imagen como fondo y ocultan iconos encima.
+- Showroom renderiza videos YouTube directamente como iframe, sin portada.
+- Se conserva _worker.js, D1/R2, sw.js, manifest y assets del V21 estable.
+
+Subir el contenido del ZIP directo a Cloudflare Pages.

@@ -1,0 +1,9 @@
+DIFOR V21
+- Administración incluye bloque explícito para editar tarjeta de presentación.
+- Se pueden subir diseños de tarjeta para enviar a clientes.
+- Botón Tarjeta de barra pregunta número del cliente y abre WhatsApp.
+- Botón WhatsApp intenta abrir app WhatsApp/WhatsApp Business en móvil y usa wa.me como respaldo.
+- Se fuerza la visualización de imágenes subidas en los botones.
+- Fondo de botón separado de imagen/icono.
+- Showroom fuerza iframe de YouTube con autoplay=1, mute=1, playsinline=1.
+- Se ocultan portadas/miniaturas dentro del tile de Showroom.

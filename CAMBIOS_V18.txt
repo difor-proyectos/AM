@@ -1,0 +1,17 @@
+DIFOR V18 CODIGO LIMPIO
+
+Versión regenerada desde cero como paquete limpio para Cloudflare Pages.
+
+Incluye:
+- Corrección móvil de barra superior en vertical y horizontal.
+- Barra superior móvil en dos filas.
+- Navegación sin superposición fija sobre el contenido.
+- Social Ads como módulo único.
+- Diseño VisionOS 4K premium.
+- Modo Black más oscuro.
+- Modo White más blanco.
+- Mejor separación entre banner y botonera.
+- Ajustes para que títulos no se corten en PC.
+- Paquete ZIP sin carpetas anidadas.
+
+Subir el contenido del ZIP directo a Cloudflare Pages.

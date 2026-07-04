@@ -1,0 +1,12 @@
+DIFOR V19 APPLE STYLE BAR
+
+Nueva barra inspirada en apple.com/apple-vision-pro:
+- Compacta.
+- Siempre visible.
+- No desaparece.
+- No usa cápsulas gigantes.
+- No tapa contenido porque permanece en el flujo de la página.
+- Botón + para desplegar información extra.
+- En el desplegable quedan Inicio, Social Ads, WhatsApp y Modo.
+- En móvil vertical y horizontal la barra se mantiene baja.
+- El logo roto se reemplaza visualmente por una D limpia.

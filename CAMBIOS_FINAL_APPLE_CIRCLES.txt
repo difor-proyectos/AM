@@ -1,0 +1,15 @@
+DIFOR FINAL APPLE CIRCLES
+
+Cambios finales:
+- Barra reemplazada completamente.
+- Barra fija, siempre visible.
+- No desaparece al deslizar.
+- Al hacer scroll se vuelve más transparente y con más blur.
+- Navegación sin texto, solo círculos pequeños estilo Apple.
+- Incluye hora y fecha.
+- Iconos: Inicio, DIFOR, Back Office, WhatsApp, Tarjeta WhatsApp, Modo.
+- DIFOR abre panel flotante: Explorar modelos, Showroom, Social Ads.
+- Back Office abre panel flotante: Negocios, Agenda, Dashboard, Administración.
+- La barra anterior se oculta completamente.
+- El contenido empieza debajo de la barra para evitar que tape información.
+- Mantiene Social Ads y estructura general.
